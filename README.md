@@ -12,4 +12,4 @@ I respect the choice of a person to be with the companion of their choice.
 
 ### I am a Christian.
 
-I am an American. 
+### I am an American. 
