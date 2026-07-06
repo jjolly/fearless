@@ -1,4 +1,4 @@
-# Fearless
+e# Fearless
 ## I am John Jolly, and I am Fearless.
 
 ### I am a husband.
@@ -17,7 +17,7 @@ I have raised my children fearlessly.
 
 I recognize there is no one right way to raise a child. What worked for me will not always work for another parent. What didn't work for me, another parent can likely improve upon. Parenting is difficult on the best of days, and I respect the choices of another parent as long as that choice does not harm the child.
 
-I will fearlessly allow other parents to raise their children as they are fit. I will also fearlessly stand for the well -being of a child.
+I will fearlessly allow other parents to raise their children as they are fit. I will also fearlessly stand for the well-being of a child.
 
 ### I am a programmer.
 
