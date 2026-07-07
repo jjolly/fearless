@@ -29,5 +29,7 @@ I believe programming is an art that belongs to everyone. I will never judge any
 I will fearlessly honor and encourage all programmers.
 
 ### I am a Christian.
+I believe that Jesus Christ was a real person born of a human mother and a divine Father. I believe he taught many profound truths that, when followed, will lead to better people, better families, and a better society. I believe, because of his divine parentage, he alone could sacrifice his life and he alone could take it up again. I believe that his sacrifice grants me the support I need to overcome my natural tendencies. My believe is based on personal experience and does not need any other proof. I have chosen The Church of Jesus Christ of Latter-Day Saints as my faith tradition. I believe this church is led by imperfect people who nonetheless are inspired to make the most correct choices for our time. I acknowledge that I am imperfect as well, but I will seek that same inspiration to make good choices and learn to discipline myself.
 
+I am a fearless disciple of Jesus Christ.
 ### I am an American. 
