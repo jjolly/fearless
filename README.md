@@ -20,6 +20,7 @@ I recognize there is no one right way to raise a child. What worked for me will 
 I will fearlessly allow other parents to raise their children as they are fit. I will also fearlessly stand for the well-being of a child.
 
 ### I am a programmer.
+I write code for a living, then I go home at night and write code for fun. I have written in assembly, C, C++, Java, Python, Bash, SQL, HTML, Brainf*ck, and Piet. I don't just write code, I wallow in the joy of creation. To me it's not about what I write, in what language I write, where I write or for whom I write. I write for the sake of creation. If I write machine code in a binary editor if I write a prompt for an AI assistant, it is the same.
 
 ### I am a Christian.
 
