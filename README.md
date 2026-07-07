@@ -24,7 +24,7 @@ I write code for a living, then I go home at night and write code for fun. I hav
 
 I program fearlessly. 
 
-I believe programming is an art that belongs to everyone. I will never judge anyone by the way they program, the language they write in, the editor they use, or the architecture they write to. I welcome everyone to this most glorious of arts, and hope they stay awhile and perhaps share their experience. I desire to see all code shared with everyone for their personal learning, growth, and hopefully contribution. But if a person works for a business that feels they need to protect their interests, I will not judge that person. Do they program? Then that is enough for me. But I will always advocate for free and open source code. I believe the best way to learn is to study the works that came before, and then build upon them. 
+I believe programming is an art that belongs to everyone. I will never judge anyone by the way they program, the language they write in, the editor they use, or the architecture they write to. I welcome everyone to this most glorious of arts, and hope they stay awhile and perhaps share their experience. I desire to see all code shared with everyone for their personal learning, growth, and hopefully contribution. But if a person works for a business that feels they need to protect their interests, I will not judge that person. Do they program? Then that is enough for me. But I will always advocate for free and open source code. I believe the best way to learn is to study the works that came before, and then build upon that work.
 
 I will fearlessly honor and encourage all programmers.
 
