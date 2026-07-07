@@ -20,7 +20,13 @@ I recognize there is no one right way to raise a child. What worked for me will 
 I will fearlessly allow other parents to raise their children as they are fit. I will also fearlessly stand for the well-being of a child.
 
 ### I am a programmer.
-I write code for a living, then I go home at night and write code for fun. I have written in assembly, C, C++, Java, Python, Bash, SQL, HTML, Brainf*ck, and Piet. I don't just write code, I wallow in the joy of creation. To me it's not about what I write, in what language I write, where I write or for whom I write. I write for the sake of creation. If I write machine code in a binary editor if I write a prompt for an AI assistant, it is the same.
+I write code for a living, then I go home at night and write code for fun. I have written in assembly, C, C++, Java, Python, Bash, SQL, HTML, Brainf*ck, and Piet. I don't just write code, I wallow in the joy of creation. To me it's not about what I write, in what language I write, where I write or for whom I write. I write for the rush of seeing the machine dance to my will. If I write machine code in a binary editor or if I write a prompt for an AI assistant, it is the same.
+
+I program fearlessly. 
+
+I believe programming is an art that belongs to everyone. I will never judge anyone by the way they program, the language they write in, the editor they use, or the architecture they write to. I welcome everyone to this most glorious of arts, and hope they stay awhile and perhaps share their experience. I desire to see all code shared with everyone for their personal learning, growth, and hopefully contribution. But if a person works for a business that feels they need to protect their interests, I will not judge that person. Do they program? Then that is enough for me. But I will always advocate for free and open source code. I believe the best way to learn is to study the works that came before, and then build upon them. 
+
+I will fearlessly honor and encourage all programmers.
 
 ### I am a Christian.
 
